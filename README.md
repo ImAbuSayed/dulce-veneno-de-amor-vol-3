@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dulce-veneno-de-amor-vol-3/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Dulce veneno de amor, Vol. 3](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-veneno-de-amor-vol-3/) |
+| **Get License** | [Official Music Licensing for Dulce veneno de amor, Vol. 3](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-veneno-de-amor-vol-3/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dulce veneno de amor, me envenena otra vez
+> Tus caderas en la noche, no me dejan ser fiel
+> Dulce veneno de amor, me derrites la piel
+> Bailando así despacio, solo tú y Sayed
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -108,7 +111,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
 | **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
